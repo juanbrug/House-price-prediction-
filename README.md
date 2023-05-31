@@ -1,5 +1,5 @@
 # house-prices-prediction-LGBM
-House prices prediction using LightGBM, a gradient boosting framework that uses tree based learning algorithms
+House prices prediction using LightGBM, a gradient boosting framework that uses tree based learning algorithms. Streamlit is used to display the prediction results in a web-app
 
 
 
