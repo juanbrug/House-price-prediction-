@@ -11,7 +11,7 @@ The dataset is available at [Kaggle](https://www.kaggle.com/c/house-prices-advan
 
 ## Features
 
-The dataset contains  80 feabures, but the features resulting from the Feature importance model are the following:
+The dataset contains  81 features, but the features resulting from the Feature importance model are the following:
 
 * **OverallQual**: Overall quality of the house
 * **GrLivArea**: Above grade (ground) living area square feet
